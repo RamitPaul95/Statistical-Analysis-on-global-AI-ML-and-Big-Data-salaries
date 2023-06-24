@@ -1,1 +1,1 @@
-# Statistical-Analysis-on-global-AI-ML-and-Big-Data-salaries
+# Statistical_Analysis_on_global_AI_ML_and_Big_Data_salaries
