@@ -14,6 +14,7 @@ EN : Entry-level / Junior
 MI : Mid-level / Intermediate
 SE : Senior-level / Expert
 EX : Executive-level / Director
+
 employment_type
 The type of employement for the role
 
@@ -21,6 +22,7 @@ PT : Part-time
 FT : Full-time
 CT : Contract
 FL : Freelance
+
 job_title
 The role worked in during the year
 
@@ -42,6 +44,7 @@ The overall amount of work done remotely, possible values are as follows
 0 : No remote work (less than 20%)
 50 : Partially remote
 100 : Fully remote (more than 80%)
+
 company_location
 The country of the employer's main office or contracting branch as an ISO 3166 country code
 
